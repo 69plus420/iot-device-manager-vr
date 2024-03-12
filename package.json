@@ -1,0 +1,22 @@
+{
+  "name": "iot-device-manager-vr",
+  "version": "1.1.1",
+  "description": "A VR interface for managing IoT devices in the metaverse.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/69plus420/iot-device-manager-vr"
+  },
+  "author": "69plus420",
+  "license": "MIT",
+  "dependencies": {
+    "metaverse-iot-bridge": "1.0.0",
+    "aframe": "^1.2.0",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "socket.io": "^4.0.0"
+  }
+}
